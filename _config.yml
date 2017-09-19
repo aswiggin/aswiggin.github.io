@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: http://127.0.0.1:4000
+url: "http://aswiggin.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
