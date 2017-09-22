@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://aswiggin.github.io"
+url: "http://www.andrewwiggins.online.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
